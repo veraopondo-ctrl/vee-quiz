@@ -1,0 +1,43 @@
+{
+  "id": "/vee-quiz/",
+  "name": "Vee Quiz",
+  "short_name": "Vee Quiz",
+  "start_url": "/vee-quiz/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4b0082",
+  "description": "Interactive quiz application",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=192x192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=512x512",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=512x512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/1280x720.jpg?text=Vee+Quiz+Desktop",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://via.placeholder.com/750x1334.jpg?text=Vee+Quiz+Mobile",
+      "sizes": "750x1334",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ]
+}
